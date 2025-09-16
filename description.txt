@@ -1,0 +1,31 @@
+Library Management React App – Description
+
+This is a simple Library Management application built using React.
+
+It allows the user to add, search, and remove books from a list.
+
+At the start, the app already has some sample books stored (The Great Gatsby and To Kill a Mockingbird).
+
+The user can:
+
+Search for books by typing either the title or the author.
+
+Add a new book by entering the book’s title and author in the input fields, then clicking the Add button.
+
+Remove a book by clicking the Remove button next to it.
+
+The interface is designed with simple input boxes and buttons, making it user-friendly.
+
+The app dynamically updates the book list in real time using React’s useState hook for state management.
+
+This experiment demonstrates:
+
+Handling of state in React.
+
+Filtering data based on user input.
+
+Adding and removing items in an array stored in state.
+
+Using map() to display multiple items.
+
+Overall, this experiment shows how to build an interactive and responsive UI for managing data in React.
